@@ -1,0 +1,5 @@
+Die Photosynthese ist der Prozess, mit dem Pflanzen Lichtenergie in chemische Energie umwandeln. Sie findet in den Chloroplasten statt, die den grünen Farbstoff Chlorophyll enthalten. Aus Kohlendioxid aus der Luft und Wasser aus dem Boden entsteht unter Lichteinfluss Glukose. Als Nebenprodukt wird Sauerstoff freigesetzt.
+
+Die Photosynthese läuft in zwei Hauptphasen ab. In den lichtabhängigen Reaktionen in den Thylakoidmembranen wird Wasser gespalten, Sauerstoff entsteht, und die Energieträger ATP und NADPH werden gebildet. Im Calvin-Zyklus im Stroma werden mit diesen Energieträgern aus Kohlendioxid Zuckermoleküle aufgebaut.
+
+Für Lernende wichtig ist die Gesamtgleichung: sechs Kohlendioxid plus sechs Wasser ergeben unter Lichtenergie eine Glukose plus sechs Sauerstoff. Pflanzen nutzen die Glukose als Baustoff und als Energiequelle, und sie bilden daraus Stärke als Speicher.
